@@ -7,7 +7,7 @@ function Nav() {
   const history = useHistory();
 
   function handleBack() {
-    history.goBack();
+    history.goBack('/');
   }
 
   return (
