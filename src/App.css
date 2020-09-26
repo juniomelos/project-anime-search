@@ -46,6 +46,27 @@ h1 {
 }
 
 .img-search {
-  max-width:80px;
-  max-height:40px;
+  max-width: 80px;
+  max-height: 40px;
+}
+
+.list {
+  align-items: initial;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-genre {
+  align-items: initial;
+  display: flex;
+  flex-direction: row;
+  list-style-type: disc;
+}
+
+.list-genre-li {
+  align-items: initial;
+  display: flex;
+  flex-direction: row;
+  margin-right: 2rem;
+  list-style-type: disc;
 }

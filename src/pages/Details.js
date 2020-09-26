@@ -20,9 +20,9 @@ function Details() {
         </div>
       ) : (
         <article>
-          <header>
+          <header className="list">
             <img src={anime.image_url} alt={anime.title} />
-            <div className="textWhite">
+            <div className="textWhite loadingDetails">
               <hgroup>
                 <h1>{anime.title}</h1>
                 <h2>{`${anime.title_english}`}</h2>
@@ -33,13 +33,13 @@ function Details() {
                   <span>{anime.status}</span>
                 </p>
                 <p>Total episodes: {anime.episodes}</p>
-                <div>
+                <div className="list">
                   <p>Genres:</p>
-                  <ul>
+                  <ul className="list-genre ">
                     {anime.genres.map((genre) => (
-                      <li key={genre.mal_id}>
-                        {genre.name}
-                      </li>
+                      <div className="list-genre-li">
+                        <li key={genre.mal_id}>{genre.name}</li>
+                      </div>
                     ))}
                   </ul>
                 </div>
