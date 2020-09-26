@@ -29,8 +29,7 @@ function Details() {
               </hgroup>
               <div>
                 <p>
-                  Status: &nbsp;
-                  <span>{anime.status}</span>
+                  Status: &nbsp; <span>{anime.status}</span>
                 </p>
                 <p>Total episodes: {anime.episodes}</p>
                 <div className="list">
