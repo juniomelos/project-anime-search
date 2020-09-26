@@ -1,0 +1,51 @@
+body {
+  margin: 50px;
+  background-image: url('./assets/shaka.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center;
+}
+
+h1 {
+  color: rgb(250, 230, 115);
+}
+
+.corpo-pesquisa {
+  margin-bottom: 50px;
+}
+
+.card-list {
+  align-items: initial;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card2 {
+  width: 18rem;
+  margin: 10px;
+}
+
+.textWhite {
+  color: white;
+}
+
+.loadingDetails {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.img-notFound {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-search {
+  max-width:80px;
+  max-height:40px;
+}
