@@ -24,7 +24,7 @@
     "react-scripts": "3.4.3",
     "sweetalert2": "^9.17.1"
   },
-  "homepage": "https://juniomelos.github.io/project-anime-search",
+  "homepage": "https://juniomelos.github.io/project-anime-search/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
