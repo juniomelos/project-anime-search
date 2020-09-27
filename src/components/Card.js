@@ -6,7 +6,7 @@ function Card({ id, title, image_url }) {
   const history = useHistory();
 
   function handleNavigateToDetail() {
-    history.push(`/project-anime-search/details/${id}`);
+    history.push(`/details/${id}`);
   }
 
   return (
