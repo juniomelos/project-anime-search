@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/project-anime-search/static/css/main.1294e683.chunk.css",
-    "main.js": "/project-anime-search/static/js/main.456978b6.chunk.js",
-    "main.js.map": "/project-anime-search/static/js/main.456978b6.chunk.js.map",
+    "main.js": "/project-anime-search/static/js/main.bf5f984a.chunk.js",
+    "main.js.map": "/project-anime-search/static/js/main.bf5f984a.chunk.js.map",
     "reactPlayerDailyMotion.js": "/project-anime-search/static/js/reactPlayerDailyMotion.f40c1311.chunk.js",
     "reactPlayerDailyMotion.js.map": "/project-anime-search/static/js/reactPlayerDailyMotion.f40c1311.chunk.js.map",
     "reactPlayerFacebook.js": "/project-anime-search/static/js/reactPlayerFacebook.97d1e6a9.chunk.js",
@@ -33,7 +33,7 @@
     "static/js/14.66563679.chunk.js": "/project-anime-search/static/js/14.66563679.chunk.js",
     "static/js/14.66563679.chunk.js.map": "/project-anime-search/static/js/14.66563679.chunk.js.map",
     "index.html": "/project-anime-search/index.html",
-    "precache-manifest.d8d36f582b1608771d7aba72e47d13b1.js": "/project-anime-search/precache-manifest.d8d36f582b1608771d7aba72e47d13b1.js",
+    "precache-manifest.5fe52ff11abd86bf5a57be80bdd86843.js": "/project-anime-search/precache-manifest.5fe52ff11abd86bf5a57be80bdd86843.js",
     "service-worker.js": "/project-anime-search/service-worker.js",
     "static/css/14.8aa5a7f8.chunk.css.map": "/project-anime-search/static/css/14.8aa5a7f8.chunk.css.map",
     "static/css/main.1294e683.chunk.css.map": "/project-anime-search/static/css/main.1294e683.chunk.css.map",
@@ -47,6 +47,6 @@
     "static/css/14.8aa5a7f8.chunk.css",
     "static/js/14.66563679.chunk.js",
     "static/css/main.1294e683.chunk.css",
-    "static/js/main.456978b6.chunk.js"
+    "static/js/main.bf5f984a.chunk.js"
   ]
 }
