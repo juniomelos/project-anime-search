@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/project-anime-search/static/css/main.1294e683.chunk.css",
-    "main.js": "/project-anime-search/static/js/main.bf5f984a.chunk.js",
-    "main.js.map": "/project-anime-search/static/js/main.bf5f984a.chunk.js.map",
+    "main.js": "/project-anime-search/static/js/main.04f6617e.chunk.js",
+    "main.js.map": "/project-anime-search/static/js/main.04f6617e.chunk.js.map",
     "reactPlayerDailyMotion.js": "/project-anime-search/static/js/reactPlayerDailyMotion.f40c1311.chunk.js",
     "reactPlayerDailyMotion.js.map": "/project-anime-search/static/js/reactPlayerDailyMotion.f40c1311.chunk.js.map",
     "reactPlayerFacebook.js": "/project-anime-search/static/js/reactPlayerFacebook.97d1e6a9.chunk.js",
@@ -30,14 +30,14 @@
     "runtime-main.js": "/project-anime-search/static/js/runtime-main.e6a300a2.js",
     "runtime-main.js.map": "/project-anime-search/static/js/runtime-main.e6a300a2.js.map",
     "static/css/14.8aa5a7f8.chunk.css": "/project-anime-search/static/css/14.8aa5a7f8.chunk.css",
-    "static/js/14.66563679.chunk.js": "/project-anime-search/static/js/14.66563679.chunk.js",
-    "static/js/14.66563679.chunk.js.map": "/project-anime-search/static/js/14.66563679.chunk.js.map",
+    "static/js/14.5e6ebe73.chunk.js": "/project-anime-search/static/js/14.5e6ebe73.chunk.js",
+    "static/js/14.5e6ebe73.chunk.js.map": "/project-anime-search/static/js/14.5e6ebe73.chunk.js.map",
     "index.html": "/project-anime-search/index.html",
-    "precache-manifest.5fe52ff11abd86bf5a57be80bdd86843.js": "/project-anime-search/precache-manifest.5fe52ff11abd86bf5a57be80bdd86843.js",
+    "precache-manifest.4ae2808d06d9e23a445d3795a050a334.js": "/project-anime-search/precache-manifest.4ae2808d06d9e23a445d3795a050a334.js",
     "service-worker.js": "/project-anime-search/service-worker.js",
     "static/css/14.8aa5a7f8.chunk.css.map": "/project-anime-search/static/css/14.8aa5a7f8.chunk.css.map",
     "static/css/main.1294e683.chunk.css.map": "/project-anime-search/static/css/main.1294e683.chunk.css.map",
-    "static/js/14.66563679.chunk.js.LICENSE.txt": "/project-anime-search/static/js/14.66563679.chunk.js.LICENSE.txt",
+    "static/js/14.5e6ebe73.chunk.js.LICENSE.txt": "/project-anime-search/static/js/14.5e6ebe73.chunk.js.LICENSE.txt",
     "static/media/not-found.png": "/project-anime-search/static/media/not-found.43731682.png",
     "static/media/search.svg": "/project-anime-search/static/media/search.d5b17b6c.svg",
     "static/media/App.css": "/project-anime-search/static/media/shaka.3718606e.jpg"
@@ -45,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.e6a300a2.js",
     "static/css/14.8aa5a7f8.chunk.css",
-    "static/js/14.66563679.chunk.js",
+    "static/js/14.5e6ebe73.chunk.js",
     "static/css/main.1294e683.chunk.css",
-    "static/js/main.bf5f984a.chunk.js"
+    "static/js/main.04f6617e.chunk.js"
   ]
 }

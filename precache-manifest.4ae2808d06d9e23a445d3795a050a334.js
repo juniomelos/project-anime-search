@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f45b177b439df517739035872dca9ca",
+    "revision": "b995b174ec7e687bdefb11cf6bdbc43c",
     "url": "/project-anime-search/index.html"
   },
   {
-    "revision": "6eaf03b726661930fbdb",
+    "revision": "0c71b1af170bed86daea",
     "url": "/project-anime-search/static/css/14.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "0e2bdfe549fdadf98fb6",
+    "revision": "ff6e9baa5b016749564d",
     "url": "/project-anime-search/static/css/main.1294e683.chunk.css"
   },
   {
-    "revision": "6eaf03b726661930fbdb",
-    "url": "/project-anime-search/static/js/14.66563679.chunk.js"
+    "revision": "0c71b1af170bed86daea",
+    "url": "/project-anime-search/static/js/14.5e6ebe73.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/project-anime-search/static/js/14.66563679.chunk.js.LICENSE.txt"
+    "url": "/project-anime-search/static/js/14.5e6ebe73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e2bdfe549fdadf98fb6",
-    "url": "/project-anime-search/static/js/main.bf5f984a.chunk.js"
+    "revision": "ff6e9baa5b016749564d",
+    "url": "/project-anime-search/static/js/main.04f6617e.chunk.js"
   },
   {
     "revision": "ec72d9a01db54ada51e3",
