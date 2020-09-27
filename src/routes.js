@@ -7,8 +7,8 @@ import NotFound from './pages/NotFound';
 function Routes() {
   return (
     <Switch>
-      <Route path="/" exact component={Home} />
-      <Route path="/details/:id" component={Details} />
+      <Route path="/project-anime-search/" exact component={Home} />
+      <Route path="/project-anime-search/details/:id" component={Details} />
       <Route component={NotFound} />
     </Switch>
   );
