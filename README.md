@@ -4,6 +4,24 @@
 
 ---
 
+### *Initial Page*
+
+<img src="src/assets/initial-page-search-anime.png" width="400px">
+
+### *Search Result*
+
+<img src="src/assets/search-result-anime.png.png" width="400px">
+
+### *Details Page*
+
+<img src="src/assets/details-page-search-anime.png" width="400px">
+
+### *NotFound Page*
+
+<img src="src/assets/notfound-page-search-anime.png" width="400px">
+
+---
+
 ## 📚 Bibliotecas utilizadas
 
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
